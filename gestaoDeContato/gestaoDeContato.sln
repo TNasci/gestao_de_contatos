@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestaoDeContatoAPI", "gestaoDeContato\gestaoDeContatoAPI.csproj", "{BF76D1F3-E2CB-4FF3-8328-CC2A1C711F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF76D1F3-E2CB-4FF3-8328-CC2A1C711F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF76D1F3-E2CB-4FF3-8328-CC2A1C711F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF76D1F3-E2CB-4FF3-8328-CC2A1C711F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF76D1F3-E2CB-4FF3-8328-CC2A1C711F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {350A2BF0-37D6-424E-9B66-CBDB7DAA724F}
+	EndGlobalSection
+EndGlobal
